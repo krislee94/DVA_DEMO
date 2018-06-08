@@ -33,7 +33,9 @@ export default {
         });
       }
     },
-    *create() { },
+    *create() { 
+      
+    },
     // 因为delete是关键字
     *'delete'() { },
     *update() { },
